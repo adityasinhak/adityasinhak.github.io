@@ -60,7 +60,7 @@ Plotly - Interactive Plot 1: Heatmap
 
 
 
-<iframe src="demo.html" style="position:absolute;height:50%;width:70%"></iframe>
+<iframe src="demo1.html" style="position:absolute;height:50%;width:70%"></iframe>
 
 
 
