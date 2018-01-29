@@ -16,9 +16,7 @@ Developing Data Products : R Markdown Presentation & Plotly - Heatmap
 ========================================================
 author: Aditya Sinha
 date: 28/01/2018
-autosize: true
-transition: rotate
-transition-speed: slow
+
 
 Overview
 ========================================================
@@ -58,12 +56,45 @@ Plotly - Interactive Plot 1: Heatmap
 ============================================================
 
 
+
+
+
+
+
 <iframe src="demo.html" style="position:absolute;height:50%;width:50%"></iframe>
+
+
+
+
+
+
+
+
+
+
+
 
 Plot 2 : Time-Series Chart R Code
 =========================================================
 
+
+
+
+
+
+
+
 <iframe src="demo1.html" style="position:absolute;height:50%;width:50%"></iframe>
+
+
+
+
+
+
+
+
+
+
 Plotly - Interactive Plot 2: Time-Series Chart
 =========================================================
 
