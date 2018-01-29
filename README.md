@@ -60,13 +60,13 @@ Plotly - Interactive Plot 1: Heatmap
 ============================================================
 
 
-<iframe src="demo.html" style="position:absolute;height:400%;width:400%"></iframe>
+<iframe src="demo.html" style="position:absolute;height:100%;width:100%"></iframe>
 
 Plot 2 : Time-Series Chart R Code
 =========================================================
 
-<iframe src="demo1.html" style="position:absolute;height:400%;width:400%"></iframe>
+<iframe src="demo1.html" style="position:absolute;height:100%;width:100%"></iframe>
 Plotly - Interactive Plot 2: Time-Series Chart
 =========================================================
 
-<iframe src="demo2.html" style="position:absolute;height:400%;width:400%"></iframe>
+<iframe src="demo2.html" style="position:absolute;height:100%;width:100%"></iframe>
