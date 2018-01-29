@@ -73,28 +73,3 @@ Plotly - Interactive Plot 1: Heatmap
 
 
 
-Plot 2 : Time-Series Chart R Code
-=========================================================
-
-
-
-
-
-
-
-
-<iframe src="demo1.html" style="position:absolute;height:50%;width:50%"></iframe>
-
-
-
-
-
-
-
-
-
-
-Plotly - Interactive Plot 2: Time-Series Chart
-=========================================================
-
-<iframe src="demo2.html" style="position:absolute;height:50%;width:50%"></iframe>
