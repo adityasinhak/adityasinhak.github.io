@@ -4,8 +4,6 @@ You can use the [editor on GitHub](https://github.com/adityasinhak/adityasinhak.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
 <style type="text/css">
 
 .reveal pre code {
@@ -60,13 +58,13 @@ Plotly - Interactive Plot 1: Heatmap
 ============================================================
 
 
-<iframe src="https://github.com/adityasinhak/adityasinhak.github.io/demo.html" style="position:absolute;height:50%;width:50%"></iframe>
+<iframe src="demo.html" style="position:absolute;height:50%;width:50%"></iframe>
 
 Plot 2 : Time-Series Chart R Code
 =========================================================
 
-<iframe src="https://github.com/adityasinhak/adityasinhak.github.io/demo1.html" style="position:absolute;height:50%;width:50%"></iframe>
+<iframe src="demo1.html" style="position:absolute;height:50%;width:50%"></iframe>
 Plotly - Interactive Plot 2: Time-Series Chart
 =========================================================
 
-<iframe src="https://github.com/adityasinhak/adityasinhak.github.io/demo2.html" style="position:absolute;height:50%;width:50%"></iframe>
+<iframe src="demo2.html" style="position:absolute;height:50%;width:50%"></iframe>
