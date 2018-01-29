@@ -53,7 +53,6 @@ The data used for this Assignment is as below:
 ```
 
 Plotly - Interactive Plot 1: Heatmap
-============================================================
 
 
 
